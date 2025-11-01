@@ -1,0 +1,30 @@
+[
+  {
+    "feature": "GLU",
+    "importance_percent": 56.91
+  },
+  {
+    "feature": "AGE",
+    "importance_percent": 20.95
+  },
+  {
+    "feature": "BMI",
+    "importance_percent": 10.91
+  },
+  {
+    "feature": "HTN_FLAG",
+    "importance_percent": 4.39
+  },
+  {
+    "feature": "PA_ANY",
+    "importance_percent": 3.63
+  },
+  {
+    "feature": "SEX_MALE",
+    "importance_percent": 1.94
+  },
+  {
+    "feature": "SMOKING_IDX",
+    "importance_percent": 1.28
+  }
+]

@@ -1,0 +1,6 @@
+# Ignore virtual environment
+.venv/
+
+# Ignore model and dataset files
+models/*.joblib
+data/brfss/

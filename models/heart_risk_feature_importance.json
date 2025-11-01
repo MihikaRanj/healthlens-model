@@ -1,0 +1,62 @@
+[
+  {
+    "feature": "Age",
+    "importance_percent": 38.41
+  },
+  {
+    "feature": "High Blood Pressure (1=Yes)",
+    "importance_percent": 20.93
+  },
+  {
+    "feature": "High Cholesterol (1=Yes)",
+    "importance_percent": 13.95
+  },
+  {
+    "feature": "Body Mass Index (BMI)",
+    "importance_percent": 7.49
+  },
+  {
+    "feature": "Exercise Frequency (sessions/week)",
+    "importance_percent": 3.33
+  },
+  {
+    "feature": "Strength Exercise Frequency (sessions/week)",
+    "importance_percent": 3.23
+  },
+  {
+    "feature": "No Recent Cholesterol Check (1=Yes)",
+    "importance_percent": 2.23
+  },
+  {
+    "feature": "Physically Active (1=Yes)",
+    "importance_percent": 2.17
+  },
+  {
+    "feature": "Stress Level (0–30 days)",
+    "importance_percent": 2.12
+  },
+  {
+    "feature": "Activity Type Code (1–Walking, 2–Running, 3–Cycling, etc.)",
+    "importance_percent": 1.35
+  },
+  {
+    "feature": "Physical Activity Index",
+    "importance_percent": 1.13
+  },
+  {
+    "feature": "Smoker (1=Yes)",
+    "importance_percent": 1.11
+  },
+  {
+    "feature": "Stress × Low Activity Interaction",
+    "importance_percent": 1.03
+  },
+  {
+    "feature": "Has Health Insurance (1=Yes)",
+    "importance_percent": 0.89
+  },
+  {
+    "feature": "Heavy Drinking (1=Yes)",
+    "importance_percent": 0.65
+  }
+]
